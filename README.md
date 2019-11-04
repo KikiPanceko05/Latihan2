@@ -131,3 +131,4 @@ Perintah di atas akan mengkonversikan tipe data sebelumnya ke bentuk tipe data i
     print('hasil penjumlahan {1} & {0} = %d'.format(a, b)%(a + b))
 
 Perintah di atas digunakan untuk mencetak, menghitung dan memformat kembali output yang akan dihasilkan. "{1}" dan "{0}" adalah ***placeholder*** dan "**%d**" adalah perintah untuk mencetak output ke dalam bentuk desimal. Kita bisa mengubah "**%d**" menjadi, misalnya "**%f**", dan output yang akan di hasilkan akan dicetak dalam bentuk float.
+g
